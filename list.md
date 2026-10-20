@@ -19,3 +19,4 @@
 - [一致性哈希分片 Demo 完整源码节点增减数据重分配](https://github.com/backendleosjy/BBgBWP/commit/053fdf24e9e3fce03412b6aff0153b7c5f8c66be)
 - [GitHub组织团队批量管理脚本](https://github.com/backendleosjy/BBgBWP/commit/61a49d46855471c1b060c4106a8e542c7e3fd380)
 - [大文件读取处理开源源码 完整源码实现大文件分片读取逻辑](https://github.com/backendleosjy/BBgBWP/commit/80ecd6823eb1c6d2a630d7e384fa87184e371ab6)
+- [GitHub仓库Secret扫描告警导出工具](https://github.com/backendleosjy/BBgBWP/commit/c261a56e9a299e9f180c7f927abdadf6ace2a134)
