@@ -87,3 +87,4 @@
 - [部分新兴赛道火热，存在泡沫化潜在风险](https://github.com/backendleosjy/BBgBWP/commit/5fff16e6a19d1c4ab61379024df2c1294ebd8725)
 - [pdf批量移除pdf水印图层，尝试移除pdf内图片文本水印](https://github.com/backendleosjy/BBgBWP/commit/e9f7004ea7f728843ad2cefea381f2aaf27b9f51)
 - [网约车司机社保参保现实困境](https://github.com/backendleosjy/BBgBWP/commit/4c3872662c7fa3f3634ea8ec10c2231cce6927ed)
+- [markdown知识库管理系统，文件夹驱动文档搜索标签管理](https://github.com/backendleosjy/BBgBWP/commit/587b2a95899cb3e69b8d671b2f4e55fda59092fc)
