@@ -77,3 +77,4 @@
 - [标准证件照处理工具，修改尺寸背景批量生成证件照片](https://github.com/backendleosjy/BBgBWP/commit/95a98a4b6adcc1733d9d0d8c2237e46b1492e9d6)
 - [数据库场景开源实战合集 完整工程附带环境分步搭建教程](https://github.com/backendleosjy/BBgBWP/commit/2615407bdf72492218882b0b27a42b79e9de9ea4)
 - [户用光伏规范发展，农户安装收益与风险](https://github.com/backendleosjy/BBgBWP/commit/a0f28d7aa9616307a48e1e18c61395d11814b771)
+- [软件供应链攻击，开源依赖投毒已经成为主流威胁](https://github.com/backendleosjy/BBgBWP/commit/587d0574f4de9caee31dd31860790a40f9dcfe81)
