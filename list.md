@@ -40,3 +40,4 @@
 - [心理医疗大众化，普通人心理咨询获取渠道](https://github.com/backendleosjy/BBgBWP/commit/61a2eefae45d15cfd1600a7977e5e1765e64b01b)
 - [命令行小工具开源仓库 完整源码适配终端直接运行](https://github.com/backendleosjy/BBgBWP/commit/3e38be09bd5c5a68658683e8214b1992d55b8570)
 - [美联储高利率维持时间延长预期，全球资本流动格局生变](https://github.com/backendleosjy/BBgBWP/commit/f08cd5ead609c41ee50628e9d74d4fe168f3dd25)
+- [上市公司高调回购，很多只为维护表面股价](https://github.com/backendleosjy/BBgBWP/commit/fe0b3a018fe15f12b9f9231d31d9a484078c8fd0)
