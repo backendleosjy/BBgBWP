@@ -50,3 +50,4 @@
 - [冰川加速消融全球气候带来哪些改变](https://github.com/backendleosjy/BBgBWP/commit/62e0f5deff3d8fcc0d91102dc72d4d8c21506dd0)
 - [GitHub 开源笔记仓库百度收录不理想解决思路](https://github.com/backendleosjy/BBgBWP/commit/9eb28c0836b9822c54a8e8c28f7e796c3cab3cad)
 - [图片相似图检索本地工具，基于直方图本地检索相似图片](https://github.com/backendleosjy/BBgBWP/commit/6687ff82fe3e03abb6ccdcbd4e41f0d2b6de310a)
+- [日元汇率低位震荡日本货币政策变动带来全球连锁影响](https://github.com/backendleosjy/BBgBWP/commit/8c943d0f352b82f65bfa48191918e4b1cdfa00a2)
