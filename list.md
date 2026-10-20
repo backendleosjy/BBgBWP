@@ -127,3 +127,4 @@
 - [powershell日志记录模板，错误捕获日志输出powershell脚手架](https://github.com/backendleosjy/BBgBWP/commit/6fae59cb4270202ec8c217d2c1cc2115a0d6f80f)
 - [单例模式多种实现开源工程 完整源码多方案单例写法演示](https://github.com/backendleosjy/BBgBWP/commit/79a5b446927b5258b6f5ba809b1b5288ad78508f)
 - [程序员文件工具开源源码 全套源码支持多操作系统兼容](https://github.com/backendleosjy/BBgBWP/commit/97d54b27589ca63a0dc96cad42f87c3f526e4604)
+- [网络文艺监管升级，短视频短剧内容治理](https://github.com/backendleosjy/BBgBWP/commit/e07be14bfa3eec5edac1086dd0195c69a8d0f15d)
