@@ -42,3 +42,4 @@
 - [美联储高利率维持时间延长预期，全球资本流动格局生变](https://github.com/backendleosjy/BBgBWP/commit/f08cd5ead609c41ee50628e9d74d4fe168f3dd25)
 - [上市公司高调回购，很多只为维护表面股价](https://github.com/backendleosjy/BBgBWP/commit/fe0b3a018fe15f12b9f9231d31d9a484078c8fd0)
 - [地方化债稳步推进，短期很难改变生活](https://github.com/backendleosjy/BBgBWP/commit/db6055608dd0b252f105558a86f06eb44d43b617)
+- [婚前财产公证普及，年轻人婚姻财产观念转变](https://github.com/backendleosjy/BBgBWP/commit/50bb099fe8c8123a452a642dc7848f7d2a7f72a6)
