@@ -183,3 +183,4 @@
 - [租赁经济快速崛起，对传统商品消费带来哪些影响](https://github.com/backendleosjy/BBgBWP/commit/99c493a11a458333e86413c6cbdd88ade9d438e1)
 - [GitHub Discussions搜索能力弱，历史问答难以检索](https://github.com/backendleosjy/BBgBWP/commit/c58a78929f157303bac69d26ec0ca27ae736f826)
 - [行级悲观锁开源仓库 完整源码数据库行锁业务示例](https://github.com/backendleosjy/BBgBWP/commit/5f97284f42706d117060ba4b9e5a468dcdb42b6a)
+- [进程间消息队列通信工程 完整源码跨进程数据传递交互](https://github.com/backendleosjy/BBgBWP/commit/26eba6f9f5a03558e3f267e1ef189bb8ae38536e)
