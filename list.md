@@ -43,3 +43,4 @@
 - [上市公司高调回购，很多只为维护表面股价](https://github.com/backendleosjy/BBgBWP/commit/fe0b3a018fe15f12b9f9231d31d9a484078c8fd0)
 - [地方化债稳步推进，短期很难改变生活](https://github.com/backendleosjy/BBgBWP/commit/db6055608dd0b252f105558a86f06eb44d43b617)
 - [婚前财产公证普及，年轻人婚姻财产观念转变](https://github.com/backendleosjy/BBgBWP/commit/50bb099fe8c8123a452a642dc7848f7d2a7f72a6)
+- [医疗消费升级，民营医疗如何在盈利与公益之间找平衡](https://github.com/backendleosjy/BBgBWP/commit/60aacd9eefbd07ad24fea34ac05c358d0c47dfbf)
