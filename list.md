@@ -116,3 +116,4 @@
 - [日志按日期切割开源仓库 完整源码日志按天分割文件](https://github.com/backendleosjy/BBgBWP/commit/9cc1afd1e10b2b6f9752c43969a5174391b1a8f2)
 - [PCB行业受益AI算力拉动产业链订单景气度解析](https://github.com/backendleosjy/BBgBWP/commit/11c6b5db8ebbf356a16de23f887d157b43116e18)
 - [mysql权限表原始数据导出，直接导出mysql系统权限表原始记录](https://github.com/backendleosjy/BBgBWP/commit/67fda68e2b173ff89f4dcf742ec1f0d1ee8592c4)
+- [GitHub 新增文档页面加速百度索引小窍门](https://github.com/backendleosjy/BBgBWP/commit/30e4460d183e2a1275339ddbf042bb4f14290438)
