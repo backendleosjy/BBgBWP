@@ -26,3 +26,4 @@
 - [真实业务开源源码 项目实例含多系统环境排错](https://github.com/backendleosjy/BBgBWP/commit/1972f8f10f4fb86037cfd4b8a8b88cf5fd8e3458)
 - [金融体系要避免脱实向虚，回归服务实体经济](https://github.com/backendleosjy/BBgBWP/commit/7bc5a499fb356332c3193474cd4dbbd7239f6c5e)
 - [全栈业务实战开源资源 完整工程附带快速集成手册](https://github.com/backendleosjy/BBgBWP/commit/aa25ba908fbf165eca293415338a0783ad075718)
+- [AI生成内容监管，自媒体创作合规新要求](https://github.com/backendleosjy/BBgBWP/commit/2a704f04cba889ce1e57e3b7e7598cef3d242ac7)
