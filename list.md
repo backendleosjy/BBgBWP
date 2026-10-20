@@ -55,3 +55,4 @@
 - [最低工资标准上调对你的工资收入会带来哪些改变](https://github.com/backendleosjy/BBgBWP/commit/6c2247c1a2d45f7a87fe462e24035a068b73610f)
 - [云边端分层AI卸载，训练推理任务拆分策略](https://github.com/backendleosjy/BBgBWP/commit/014272c8d13cf9c7ac320c9be7e86dc9f0911405)
 - [容器latest标签坑，生产环境禁止使用latest标签](https://github.com/backendleosjy/BBgBWP/commit/73f843b2a553d40d2be1f209e11f68c5280b8cf3)
+- [基层就业补贴落地申领堵点](https://github.com/backendleosjy/BBgBWP/commit/9531f319a448cc2e938de1c6906e66e11cbf8b8b)
