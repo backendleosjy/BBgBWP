@@ -52,3 +52,4 @@
 - [图片相似图检索本地工具，基于直方图本地检索相似图片](https://github.com/backendleosjy/BBgBWP/commit/6687ff82fe3e03abb6ccdcbd4e41f0d2b6de310a)
 - [日元汇率低位震荡日本货币政策变动带来全球连锁影响](https://github.com/backendleosjy/BBgBWP/commit/8c943d0f352b82f65bfa48191918e4b1cdfa00a2)
 - [国产替代热度爆棚，不少公司纯粹讲故事](https://github.com/backendleosjy/BBgBWP/commit/27d2a695c8dd232ec9e62724f51b8c27c702d7f5)
+- [最低工资标准上调对你的工资收入会带来哪些改变](https://github.com/backendleosjy/BBgBWP/commit/6c2247c1a2d45f7a87fe462e24035a068b73610f)
