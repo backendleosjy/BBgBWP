@@ -92,3 +92,4 @@
 - [家谱族谱管理工具，录入亲属关系生成族谱导出打印](https://github.com/backendleosjy/BBgBWP/commit/6b55939eba201a841142e2b72955e400e9daed89)
 - [静态镜像站点 canonical 指向错误域名修正](https://github.com/backendleosjy/BBgBWP/commit/4c984811b16b601e96e154b249d3c6b13348a0bd)
 - [程序员轻量开源工程库 完整源码与多场景落地演示文档](https://github.com/backendleosjy/BBgBWP/commit/63e4fcf9ab4fcd9f5c1b51d9d7fe4c7adef6926d)
+- [github仓库dependabot告警导出，导出dependabot依赖安全告警清单](https://github.com/backendleosjy/BBgBWP/commit/7d0aa44f1c4ea3d1919d477337b24b5b1c6e617d)
