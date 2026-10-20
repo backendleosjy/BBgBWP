@@ -124,3 +124,4 @@
 - [生育补贴育儿津贴各地福利政策申领条件汇总](https://github.com/backendleosjy/BBgBWP/commit/777c342870d4970c1d6b99a188e4b9e042af26c6)
 - [乡村人才振兴，人才返乡下乡配套扶持政策](https://github.com/backendleosjy/BBgBWP/commit/fdda64a720d846bc4d658ff51c3b341f2907ea72)
 - [进程信号处理优雅退出开源仓库 完整源码捕获信号释放资源](https://github.com/backendleosjy/BBgBWP/commit/91ab4907ca2f2a93252e7d12d73cf2f64fca7ce6)
+- [powershell日志记录模板，错误捕获日志输出powershell脚手架](https://github.com/backendleosjy/BBgBWP/commit/6fae59cb4270202ec8c217d2c1cc2115a0d6f80f)
