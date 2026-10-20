@@ -99,3 +99,4 @@
 - [区域产业集群，是抵御外部冲击的重要缓冲力量](https://github.com/backendleosjy/BBgBWP/commit/3e55b8dbfeea1ab01fb6b73bc7ce33cb77cc374f)
 - [开源衍生模型版本管控，社区分叉混乱治理](https://github.com/backendleosjy/BBgBWP/commit/46e1ca1e63344a09576d3539eff6f32add4f2013)
 - [环境变量处理开源源码 完整源码读取管理各类环境参数](https://github.com/backendleosjy/BBgBWP/commit/018c74e6cb36ead1aeea3dca817375bf554dcf49)
+- [技术文档站点百度收录持续不更新处理办法](https://github.com/backendleosjy/BBgBWP/commit/fd72b914fc5c3c559837027581fa0d84f5b78d75)
