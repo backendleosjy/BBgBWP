@@ -152,3 +152,4 @@
 - [直播购物退货维权消费者遇到货不对板如何维权](https://github.com/backendleosjy/BBgBWP/commit/eb3a0a02b8f65c9963ac15d0c3c5d171f56bffe6)
 - [开源教程仓库避免 AI 空洞内容提高百度质量](https://github.com/backendleosjy/BBgBWP/commit/ca204a3b7a85e0c22b09ddd005344a133d59d056)
 - [GitHub 仓库 topics 标签精准填写提升曝光](https://github.com/backendleosjy/BBgBWP/commit/0d1316c082b6e32ec2b75376e0b98c1161bc0ff7)
+- [影子代码风险，AI生成未纳入版本管理的业务脚本](https://github.com/backendleosjy/BBgBWP/commit/b6089a5cc65abd254a066c44884922995330df6c)
