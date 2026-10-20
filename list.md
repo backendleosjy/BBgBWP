@@ -58,3 +58,4 @@
 - [基层就业补贴落地申领堵点](https://github.com/backendleosjy/BBgBWP/commit/9531f319a448cc2e938de1c6906e66e11cbf8b8b)
 - [K8s Pod漂移故障，节点调度引发业务抖动](https://github.com/backendleosjy/BBgBWP/commit/6979399fffa0144070389069a011e1acf64605e1)
 - [数据要素市场化，普通人个人数据如何变现获益](https://github.com/backendleosjy/BBgBWP/commit/e364e5ca3270b6f0fadc7a8e28cd1ab971d38bab)
+- [短链接开源服务，访问统计过期销毁密码访问短链生成](https://github.com/backendleosjy/BBgBWP/commit/249ef0f53e1fdb0effadb413b68ac5e56dd5fc98)
