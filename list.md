@@ -32,3 +32,4 @@
 - [年轻人攒钱存钱现实阻碍有哪些](https://github.com/backendleosjy/BBgBWP/commit/2f0f9f1be46564bed9adff5c8192d22e789a566d)
 - [银行盈利有所修复，存款利率很难重回高位](https://github.com/backendleosjy/BBgBWP/commit/323cb1dd4f90d1a6accc0791854547c2136694f8)
 - [图片水印生成开源工程 完整源码给图片添加文字水印](https://github.com/backendleosjy/BBgBWP/commit/c3908021cae8909eff34de661f2809bd54cb37ff)
+- [锂电企业出海建厂国内锂电产业链全球化布局现状](https://github.com/backendleosjy/BBgBWP/commit/107fe41fd70b1b409228508b37e6688ef5c22bf8)
