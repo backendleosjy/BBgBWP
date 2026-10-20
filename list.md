@@ -190,3 +190,4 @@
 - [人民币跨境结算占比提升外贸企业规避汇率波动风险](https://github.com/backendleosjy/BBgBWP/commit/ce89132e3fc621aaa55424931af164978648b661)
 - [百度蜘蛛抓取返回 500 错误镜像站排查](https://github.com/backendleosjy/BBgBWP/commit/076de460c5dd16edf9106d99589cebeff9826598)
 - [面向研发工程师开源资源 完整实现附带本地踩坑解决文档](https://github.com/backendleosjy/BBgBWP/commit/bc3c350a12cde18cdbd1cfe5bb1413fef02107d8)
+- [yaml键值路径查询工具，通过点路径查询yaml深层字段值](https://github.com/backendleosjy/BBgBWP/commit/bd5eda3516158407728d361e7e468e89d7f2b353)
