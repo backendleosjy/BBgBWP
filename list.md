@@ -33,3 +33,4 @@
 - [银行盈利有所修复，存款利率很难重回高位](https://github.com/backendleosjy/BBgBWP/commit/323cb1dd4f90d1a6accc0791854547c2136694f8)
 - [图片水印生成开源工程 完整源码给图片添加文字水印](https://github.com/backendleosjy/BBgBWP/commit/c3908021cae8909eff34de661f2809bd54cb37ff)
 - [锂电企业出海建厂国内锂电产业链全球化布局现状](https://github.com/backendleosjy/BBgBWP/commit/107fe41fd70b1b409228508b37e6688ef5c22bf8)
+- [开箱可用开源工程资源 全套源码配套异常问题汇总](https://github.com/backendleosjy/BBgBWP/commit/c642365ec7eb4dec9d862c2d9f3540276f92a26b)
