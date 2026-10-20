@@ -139,3 +139,4 @@
 - [百度 site 查询镜像站点收录数量解读技巧](https://github.com/backendleosjy/BBgBWP/commit/540192838e9f06d2376796099f793613d85ee609)
 - [人形机器人虚实迁移数据集构建，仿真域随机化优化](https://github.com/backendleosjy/BBgBWP/commit/ac0957f53e968fb3cfb72981da6c8b0b8f72f76a)
 - [http last‑modified 源码 完整源码修改时间协商缓存实现](https://github.com/backendleosjy/BBgBWP/commit/1d4692c81905487219102ae4cd74909879841b87)
+- [简易代理池实现开源仓库 完整源码代理 IP 轮换管理](https://github.com/backendleosjy/BBgBWP/commit/0a8476100d37993416d9da0b704b03f1278e410b)
