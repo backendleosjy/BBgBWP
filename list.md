@@ -153,3 +153,4 @@
 - [开源教程仓库避免 AI 空洞内容提高百度质量](https://github.com/backendleosjy/BBgBWP/commit/ca204a3b7a85e0c22b09ddd005344a133d59d056)
 - [GitHub 仓库 topics 标签精准填写提升曝光](https://github.com/backendleosjy/BBgBWP/commit/0d1316c082b6e32ec2b75376e0b98c1161bc0ff7)
 - [影子代码风险，AI生成未纳入版本管理的业务脚本](https://github.com/backendleosjy/BBgBWP/commit/b6089a5cc65abd254a066c44884922995330df6c)
+- [音频静音片段自动裁剪，去除首尾和中间空白静音片段](https://github.com/backendleosjy/BBgBWP/commit/1616f6c2818955d1875e19de9805109401b3071e)
