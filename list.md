@@ -7,3 +7,4 @@
 - [sql脚本批量执行工具，按顺序批量执行sql脚本记录结果](https://github.com/backendleosjy/BBgBWP/commit/a6c2d77592361d391dfe8ee3809d159432b55c6a)
 - [程序员工具开源工程 完整实现附带问题处理教程](https://github.com/backendleosjy/BBgBWP/commit/6114b75058470cc036f5310432e8941d0c18c74d)
 - [百度 API 批量推送镜像站点全部网页链接](https://github.com/backendleosjy/BBgBWP/commit/04f1e24ce81376377c644743352d3e93a2296c50)
+- [实体经济和虚拟经济之间如何实现动态平衡](https://github.com/backendleosjy/BBgBWP/commit/39ac80b499ea5c7a16e1d75bbdbbdee321894955)
