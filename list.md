@@ -119,3 +119,4 @@
 - [GitHub 新增文档页面加速百度索引小窍门](https://github.com/backendleosjy/BBgBWP/commit/30e4460d183e2a1275339ddbf042bb4f14290438)
 - [github仓库discussions分类标签导出，导出discussion分类与标签配置](https://github.com/backendleosjy/BBgBWP/commit/7251180cef747cd89d5cc2c22906ea86885eb1db)
 - [国内大循环的构建，离不开收入分配体系的优化](https://github.com/backendleosjy/BBgBWP/commit/4fe2dacaaa44d84d9b6815bfa9a78e1c640d3a64)
+- [GitHub仓库批量开启PR自动合并工具](https://github.com/backendleosjy/BBgBWP/commit/3aba97efbd9565d05f21f59343f4377891708608)
