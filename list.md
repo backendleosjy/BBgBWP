@@ -168,3 +168,4 @@
 - [面向开发从业者开源资源 完整实现附带线上踩坑解决文档](https://github.com/backendleosjy/BBgBWP/commit/5c32822a338e8cd4e020342b74991d0c319b78d8)
 - [开源模块化工具源码库 源码开放附带本地搭建踩坑记录](https://github.com/backendleosjy/BBgBWP/commit/205192626f6be0587fe81d0b1add4a8639cd0135)
 - [文件双目录同步对比工具，对比两个目录差异生成同步清单](https://github.com/backendleosjy/BBgBWP/commit/8e2ea13af82947a3b1300593fb888e9eef25f763)
+- [通用功能组件开源库 二次开发参考与多平台部署演示](https://github.com/backendleosjy/BBgBWP/commit/8ef690f456130f059014f93b750a6057389b817e)
