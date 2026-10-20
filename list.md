@@ -134,3 +134,4 @@
 - [Alpha/Beta版本打上latest标签，误导生产用户](https://github.com/backendleosjy/BBgBWP/commit/1a9c7d8db4b42e749ff352570b1d80f2b5dcbecf)
 - [音频采样格式转换工具，批量转换位深采样格式](https://github.com/backendleosjy/BBgBWP/commit/2730a35774d8ebe098dbe022df2fcf2c884d0047)
 - [保险负债端回暖储蓄型保险产品销售迎来修复](https://github.com/backendleosjy/BBgBWP/commit/87d4f28c0edd18eb81ddc69209f7fd0309bba8a2)
+- [学分银行全国打通，不同学习经历互认落地](https://github.com/backendleosjy/BBgBWP/commit/528c99e3a6212604b8ba0d0a7b49e3eb9a11902e)
