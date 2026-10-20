@@ -48,3 +48,4 @@
 - [Issue删帖封禁，区分垃圾内容与不同意见](https://github.com/backendleosjy/BBgBWP/commit/d02f00e0160b42bd4938a7d60a0b03e58bdf7a31)
 - [票据OCR结构化解析，提取金额号码日期输出结构化数据](https://github.com/backendleosjy/BBgBWP/commit/9dd96b7aafff99962dbf56959b293f9a1b4fa10f)
 - [冰川加速消融全球气候带来哪些改变](https://github.com/backendleosjy/BBgBWP/commit/62e0f5deff3d8fcc0d91102dc72d4d8c21506dd0)
+- [GitHub 开源笔记仓库百度收录不理想解决思路](https://github.com/backendleosjy/BBgBWP/commit/9eb28c0836b9822c54a8e8c28f7e796c3cab3cad)
