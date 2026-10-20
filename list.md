@@ -82,3 +82,4 @@
 - [债券不是安全保险箱，债市回调同样杀伤力巨大](https://github.com/backendleosjy/BBgBWP/commit/29222314e0bae9dbfaea623ba2aee5dff7a2e1b5)
 - [配置缺失自动填充默认值 Demo 完整源码配置容错处理逻辑](https://github.com/backendleosjy/BBgBWP/commit/d07427089a4e342441ed9fff21f547ab971f2ced)
 - [curl转python requests工具，curl命令自动转requests代码](https://github.com/backendleosjy/BBgBWP/commit/34a86b1680cd7c8bf3bc2f73b7916c3b103f45e0)
+- [VR虚拟课堂规模化应用，沉浸式教育利弊](https://github.com/backendleosjy/BBgBWP/commit/53ed1d50ba0f33199481b1a140011ff179d6eb74)
