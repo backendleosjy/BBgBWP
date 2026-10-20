@@ -13,3 +13,4 @@
 - [内贸海运运价波动物流成本传导至消费品终端](https://github.com/backendleosjy/BBgBWP/commit/3d18835415858275d4144d6eb7cf0da2b7d90ecd)
 - [生成式AI伦理审查流程，上线前风险评估](https://github.com/backendleosjy/BBgBWP/commit/78e166b4446297dc118dc763cfbd83eee28722a2)
 - [开源技术实战源码资源库 完整工程包含扩展功能开发说明](https://github.com/backendleosjy/BBgBWP/commit/17aa1091668844570cbaa26749e2dc3523d2a91e)
+- [简易身份认证 Demo 开源仓库 完整源码演示登录鉴权流程](https://github.com/backendleosjy/BBgBWP/commit/c69bada011b11d885b61aa54de1624a6266534c0)
