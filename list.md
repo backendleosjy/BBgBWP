@@ -45,3 +45,4 @@
 - [婚前财产公证普及，年轻人婚姻财产观念转变](https://github.com/backendleosjy/BBgBWP/commit/50bb099fe8c8123a452a642dc7848f7d2a7f72a6)
 - [医疗消费升级，民营医疗如何在盈利与公益之间找平衡](https://github.com/backendleosjy/BBgBWP/commit/60aacd9eefbd07ad24fea34ac05c358d0c47dfbf)
 - [物联网开源固件项目，设备型号繁多维护困难](https://github.com/backendleosjy/BBgBWP/commit/1d738d71b9844d9ef6f8b63206a6d3c8563ce43c)
+- [Issue删帖封禁，区分垃圾内容与不同意见](https://github.com/backendleosjy/BBgBWP/commit/d02f00e0160b42bd4938a7d60a0b03e58bdf7a31)
