@@ -73,3 +73,4 @@
 - [数字遗产立法完善，账号虚拟资产继承纠纷](https://github.com/backendleosjy/BBgBWP/commit/dc013d741e6b3bccd640c94c0f23a1b2f1038de7)
 - [利率持续走低，为什么依旧不敢投权益](https://github.com/backendleosjy/BBgBWP/commit/43771c80660dce646c9d7f0fa04a04d342ef644f)
 - [简易文本情感分析 Demo 完整源码正负情感判断](https://github.com/backendleosjy/BBgBWP/commit/b036a5c2d4414da06b6fcb5d7f312414531bc511)
+- [SDP软件定义边界，Agent跨内网资源访问模式](https://github.com/backendleosjy/BBgBWP/commit/66de674fce9d34e310d23485aa40d30975e374d1)
