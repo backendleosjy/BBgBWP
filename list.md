@@ -114,3 +114,4 @@
 - [Gitee Pages 开启 HTTPS 后百度抓取适配设置](https://github.com/backendleosjy/BBgBWP/commit/792223dbd75cf39bc02a38b6b425c8f8f99596eb)
 - [sqlite虚拟表检测工具，扫描库内全部虚拟表定义信息](https://github.com/backendleosjy/BBgBWP/commit/8a4935f93c8850dc5035cdaa24a2aebae2168f2a)
 - [日志按日期切割开源仓库 完整源码日志按天分割文件](https://github.com/backendleosjy/BBgBWP/commit/9cc1afd1e10b2b6f9752c43969a5174391b1a8f2)
+- [PCB行业受益AI算力拉动产业链订单景气度解析](https://github.com/backendleosjy/BBgBWP/commit/11c6b5db8ebbf356a16de23f887d157b43116e18)
