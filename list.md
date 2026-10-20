@@ -62,3 +62,4 @@
 - [大模型本地函数调用插件框架，自定义工具扩展快速搭建Agent应用](https://github.com/backendleosjy/BBgBWP/commit/e78d4ca94f75120e0a17e530648d5ca199d2a254)
 - [json数组元素过滤工具，按条件过滤json数组保留匹配项](https://github.com/backendleosjy/BBgBWP/commit/5dee75808181ca34cefee429056f7d58dbac035a)
 - [宏观数据十分亮眼，民众真实体感截然相反](https://github.com/backendleosjy/BBgBWP/commit/ebafaf81985f280afd4b595fdcaabea8899ee97a)
+- [氢能重卡示范运行商用车氢能商业化落地最新进展](https://github.com/backendleosjy/BBgBWP/commit/0aaaecf6395f42f47f72b3a63a5036c43bcb3bd8)
