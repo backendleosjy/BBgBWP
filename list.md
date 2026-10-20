@@ -79,3 +79,4 @@
 - [户用光伏规范发展，农户安装收益与风险](https://github.com/backendleosjy/BBgBWP/commit/a0f28d7aa9616307a48e1e18c61395d11814b771)
 - [软件供应链攻击，开源依赖投毒已经成为主流威胁](https://github.com/backendleosjy/BBgBWP/commit/587d0574f4de9caee31dd31860790a40f9dcfe81)
 - [数据场景开源项目分享 完整源码搭配本地环境排错文档](https://github.com/backendleosjy/BBgBWP/commit/83ee24ca781fd85c03ad7f005aae7fcd8b9638be)
+- [债券不是安全保险箱，债市回调同样杀伤力巨大](https://github.com/backendleosjy/BBgBWP/commit/29222314e0bae9dbfaea623ba2aee5dff7a2e1b5)
