@@ -159,3 +159,4 @@
 - [银保监会投诉渠道，保险银行纠纷投诉正确步骤](https://github.com/backendleosjy/BBgBWP/commit/9f7d2b765682c7521cef3dfc09074d36596a8655)
 - [tcp连接状态采集脚本，采集机器tcp连接状态输出统计报表](https://github.com/backendleosjy/BBgBWP/commit/81d9777a2ef76b79fea219917b9609dcac135ef9)
 - [长连接服务大规模部署，心跳、断线重连问题](https://github.com/backendleosjy/BBgBWP/commit/fc28662b8f128162aebb7f8bed00b381c4d7617d)
+- [模型回滚策略，线上劣化快速降级处置](https://github.com/backendleosjy/BBgBWP/commit/1182d82f03d95c42dc0192d155fb82822ff3a0ac)
