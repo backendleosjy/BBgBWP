@@ -173,3 +173,4 @@
 - [后端研发参考开源工程 源码资源含各类模拟缓存样例](https://github.com/backendleosjy/BBgBWP/commit/65b0a6c1edb794836df72f54c25d9f751c5e3aac)
 - [企业AI评估体系，业务真实收益而非跑分指标](https://github.com/backendleosjy/BBgBWP/commit/0bfc64290d3aefdabdd37400b4aaf4d338249710)
 - [情绪价值消费兴起如何避开营销陷阱](https://github.com/backendleosjy/BBgBWP/commit/b16970dcf1b212cd3abf2ce360d93274b45aa12b)
+- [pptx批量替换文本内容，全局批量替换ppt幻灯片内文本](https://github.com/backendleosjy/BBgBWP/commit/c5029698fdeaae7425a4e9b1d1e88bd2d4909762)
