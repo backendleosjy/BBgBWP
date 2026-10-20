@@ -101,3 +101,4 @@
 - [环境变量处理开源源码 完整源码读取管理各类环境参数](https://github.com/backendleosjy/BBgBWP/commit/018c74e6cb36ead1aeea3dca817375bf554dcf49)
 - [技术文档站点百度收录持续不更新处理办法](https://github.com/backendleosjy/BBgBWP/commit/fd72b914fc5c3c559837027581fa0d84f5b78d75)
 - [AI恶意数据集投毒，上线前数据集检测手段](https://github.com/backendleosjy/BBgBWP/commit/2000f153268848a5dcea542083f4205f67131e2f)
+- [多级目录递归遍历工程 完整源码深度扫描嵌套文件夹](https://github.com/backendleosjy/BBgBWP/commit/420aeedc5837258080e0d9467ad989872a03a1ff)
