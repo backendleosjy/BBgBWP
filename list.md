@@ -176,3 +176,4 @@
 - [pptx批量替换文本内容，全局批量替换ppt幻灯片内文本](https://github.com/backendleosjy/BBgBWP/commit/c5029698fdeaae7425a4e9b1d1e88bd2d4909762)
 - [文旅消费人山人海，大部分收益流向少数群体](https://github.com/backendleosjy/BBgBWP/commit/e483c27aca8b20227dc020a92d9ef3c98ed06617)
 - [接口场景开源实战合集 完整工程附带环境分步搭建教程](https://github.com/backendleosjy/BBgBWP/commit/55b88ecf3c004787c50b66e88356f8605eba7712)
+- [Demo 示例开源工程库 全套源码包含配置模板样例文件](https://github.com/backendleosjy/BBgBWP/commit/e214b0c19dfd3aeecae7a6d3984c698f351e6283)
