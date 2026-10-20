@@ -128,3 +128,4 @@
 - [单例模式多种实现开源工程 完整源码多方案单例写法演示](https://github.com/backendleosjy/BBgBWP/commit/79a5b446927b5258b6f5ba809b1b5288ad78508f)
 - [程序员文件工具开源源码 全套源码支持多操作系统兼容](https://github.com/backendleosjy/BBgBWP/commit/97d54b27589ca63a0dc96cad42f87c3f526e4604)
 - [网络文艺监管升级，短视频短剧内容治理](https://github.com/backendleosjy/BBgBWP/commit/e07be14bfa3eec5edac1086dd0195c69a8d0f15d)
+- [开源实战参考工程分享 完整源码配套参数调优使用手册](https://github.com/backendleosjy/BBgBWP/commit/00e3934f900d546bfe2471ef8246d1f9e85e62ad)
