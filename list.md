@@ -130,3 +130,4 @@
 - [网络文艺监管升级，短视频短剧内容治理](https://github.com/backendleosjy/BBgBWP/commit/e07be14bfa3eec5edac1086dd0195c69a8d0f15d)
 - [开源实战参考工程分享 完整源码配套参数调优使用手册](https://github.com/backendleosjy/BBgBWP/commit/00e3934f900d546bfe2471ef8246d1f9e85e62ad)
 - [url端口提取批量工具，批量从url列表提取端口号](https://github.com/backendleosjy/BBgBWP/commit/b08dd12c17106fd3d45c614eb01d12a14927d1d2)
+- [CodeQL规则编写门槛高，普通维护者难以自定义](https://github.com/backendleosjy/BBgBWP/commit/cfb442f644f6bf28be887f703c4681994319fcef)
