@@ -178,3 +178,4 @@
 - [接口场景开源实战合集 完整工程附带环境分步搭建教程](https://github.com/backendleosjy/BBgBWP/commit/55b88ecf3c004787c50b66e88356f8605eba7712)
 - [Demo 示例开源工程库 全套源码包含配置模板样例文件](https://github.com/backendleosjy/BBgBWP/commit/e214b0c19dfd3aeecae7a6d3984c698f351e6283)
 - [企业盈利分化，头部企业集中更多市场资源](https://github.com/backendleosjy/BBgBWP/commit/06850a57d13cadee0d6d82943d9f7fda574d24c5)
+- [流式特征实时更新，避免训练推理数据不一致](https://github.com/backendleosjy/BBgBWP/commit/a2419b2840b65c494c775cd41cf957107e604ce4)
