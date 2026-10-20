@@ -193,3 +193,4 @@
 - [yaml键值路径查询工具，通过点路径查询yaml深层字段值](https://github.com/backendleosjy/BBgBWP/commit/bd5eda3516158407728d361e7e468e89d7f2b353)
 - [GitHub 消息队列演示开源源码库 项目案例配套多环境适配文档](https://github.com/backendleosjy/BBgBWP/commit/72e49f7ea5116ef8e64f9d3a911a958edf944b15)
 - [音频波形图图片批量生成，批量生成音频波形预览图片](https://github.com/backendleosjy/BBgBWP/commit/7049565a7794daa9e4cd63eb98f1da588f006869)
+- [网红直播带货监管持续加码，直播行业规范化程度不断提升](https://github.com/backendleosjy/BBgBWP/commit/c73b3616a5b1e3875620c1c5757d12e2f3e54fbd)
