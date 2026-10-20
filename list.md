@@ -160,3 +160,4 @@
 - [tcp连接状态采集脚本，采集机器tcp连接状态输出统计报表](https://github.com/backendleosjy/BBgBWP/commit/81d9777a2ef76b79fea219917b9609dcac135ef9)
 - [长连接服务大规模部署，心跳、断线重连问题](https://github.com/backendleosjy/BBgBWP/commit/fc28662b8f128162aebb7f8bed00b381c4d7617d)
 - [模型回滚策略，线上劣化快速降级处置](https://github.com/backendleosjy/BBgBWP/commit/1182d82f03d95c42dc0192d155fb82822ff3a0ac)
+- [农业社会化托管扩面小农户种地新模式](https://github.com/backendleosjy/BBgBWP/commit/59568f1bd5b2f3c65fc976aabbae6b9eb8a6183e)
