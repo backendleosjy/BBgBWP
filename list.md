@@ -189,3 +189,4 @@
 - [pdf 简易生成开源仓库 完整源码生成简单 pdf 文档](https://github.com/backendleosjy/BBgBWP/commit/5bc949b65bb6761e640c010065c1edfb32079cd6)
 - [人民币跨境结算占比提升外贸企业规避汇率波动风险](https://github.com/backendleosjy/BBgBWP/commit/ce89132e3fc621aaa55424931af164978648b661)
 - [百度蜘蛛抓取返回 500 错误镜像站排查](https://github.com/backendleosjy/BBgBWP/commit/076de460c5dd16edf9106d99589cebeff9826598)
+- [面向研发工程师开源资源 完整实现附带本地踩坑解决文档](https://github.com/backendleosjy/BBgBWP/commit/bc3c350a12cde18cdbd1cfe5bb1413fef02107d8)
