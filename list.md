@@ -162,3 +162,4 @@
 - [模型回滚策略，线上劣化快速降级处置](https://github.com/backendleosjy/BBgBWP/commit/1182d82f03d95c42dc0192d155fb82822ff3a0ac)
 - [农业社会化托管扩面小农户种地新模式](https://github.com/backendleosjy/BBgBWP/commit/59568f1bd5b2f3c65fc976aabbae6b9eb8a6183e)
 - [存款利率持续下行，普通家庭稳健理财选择](https://github.com/backendleosjy/BBgBWP/commit/ddfcaba88362a3588dbec20ff07a0526d9e8aae2)
+- [总想快速赚大钱，理财亏损大多源于急躁](https://github.com/backendleosjy/BBgBWP/commit/7a0830abe9d31c48347ef345a38475b84453030a)
