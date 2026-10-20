@@ -10,3 +10,4 @@
 - [实体经济和虚拟经济之间如何实现动态平衡](https://github.com/backendleosjy/BBgBWP/commit/39ac80b499ea5c7a16e1d75bbdbbdee321894955)
 - [接口辅助工具开源实战工程 完整源码包含性能优化调优手册](https://github.com/backendleosjy/BBgBWP/commit/45305bf2b2b92f7ba2bcf483ad6cff622640b9e9)
 - [数据研发辅助工具开源分享 源码开放包含自定义扩展功能](https://github.com/backendleosjy/BBgBWP/commit/fb02bf0317cef2fd8735796a1af30061d07ebbdb)
+- [内贸海运运价波动物流成本传导至消费品终端](https://github.com/backendleosjy/BBgBWP/commit/3d18835415858275d4144d6eb7cf0da2b7d90ecd)
