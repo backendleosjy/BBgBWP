@@ -74,3 +74,4 @@
 - [利率持续走低，为什么依旧不敢投权益](https://github.com/backendleosjy/BBgBWP/commit/43771c80660dce646c9d7f0fa04a04d342ef644f)
 - [简易文本情感分析 Demo 完整源码正负情感判断](https://github.com/backendleosjy/BBgBWP/commit/b036a5c2d4414da06b6fcb5d7f312414531bc511)
 - [SDP软件定义边界，Agent跨内网资源访问模式](https://github.com/backendleosjy/BBgBWP/commit/66de674fce9d34e310d23485aa40d30975e374d1)
+- [标准证件照处理工具，修改尺寸背景批量生成证件照片](https://github.com/backendleosjy/BBgBWP/commit/95a98a4b6adcc1733d9d0d8c2237e46b1492e9d6)
