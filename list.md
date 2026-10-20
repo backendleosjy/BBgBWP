@@ -53,3 +53,4 @@
 - [日元汇率低位震荡日本货币政策变动带来全球连锁影响](https://github.com/backendleosjy/BBgBWP/commit/8c943d0f352b82f65bfa48191918e4b1cdfa00a2)
 - [国产替代热度爆棚，不少公司纯粹讲故事](https://github.com/backendleosjy/BBgBWP/commit/27d2a695c8dd232ec9e62724f51b8c27c702d7f5)
 - [最低工资标准上调对你的工资收入会带来哪些改变](https://github.com/backendleosjy/BBgBWP/commit/6c2247c1a2d45f7a87fe462e24035a068b73610f)
+- [云边端分层AI卸载，训练推理任务拆分策略](https://github.com/backendleosjy/BBgBWP/commit/014272c8d13cf9c7ac320c9be7e86dc9f0911405)
