@@ -4,3 +4,4 @@
 - [网关限流鉴权开源工程 完整源码网关层限流身份校验](https://github.com/backendleosjy/BBgBWP/commit/a3ed7aca50f1c43c8f22176bd07ecd3bfdc8d8d5)
 - [RAG开源项目大量重复造轮子，同质化严重](https://github.com/backendleosjy/BBgBWP/commit/64531887fe0ebbf56f0e0ebb51ee218327c7b4c8)
 - [AI试点规模化落地，数据质量组织阻力破解](https://github.com/backendleosjy/BBgBWP/commit/61a1a70475d21af86435c65ca05d7b2bed922881)
+- [sql脚本批量执行工具，按顺序批量执行sql脚本记录结果](https://github.com/backendleosjy/BBgBWP/commit/a6c2d77592361d391dfe8ee3809d159432b55c6a)
