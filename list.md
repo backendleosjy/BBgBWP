@@ -166,3 +166,4 @@
 - [一人公司遍地宣传，创业失败率居高不下](https://github.com/backendleosjy/BBgBWP/commit/5f155186743a3f89b3fd9682fb8229314a63b0c4)
 - [浏览器本地pcap简易解析工具，前端读取pcap文件解析基础流量信息](https://github.com/backendleosjy/BBgBWP/commit/e291caee95848c867fffbbe8cbe72242034f2e66)
 - [面向开发从业者开源资源 完整实现附带线上踩坑解决文档](https://github.com/backendleosjy/BBgBWP/commit/5c32822a338e8cd4e020342b74991d0c319b78d8)
+- [开源模块化工具源码库 源码开放附带本地搭建踩坑记录](https://github.com/backendleosjy/BBgBWP/commit/205192626f6be0587fe81d0b1add4a8639cd0135)
