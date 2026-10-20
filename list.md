@@ -8,3 +8,4 @@
 - [程序员工具开源工程 完整实现附带问题处理教程](https://github.com/backendleosjy/BBgBWP/commit/6114b75058470cc036f5310432e8941d0c18c74d)
 - [百度 API 批量推送镜像站点全部网页链接](https://github.com/backendleosjy/BBgBWP/commit/04f1e24ce81376377c644743352d3e93a2296c50)
 - [实体经济和虚拟经济之间如何实现动态平衡](https://github.com/backendleosjy/BBgBWP/commit/39ac80b499ea5c7a16e1d75bbdbbdee321894955)
+- [接口辅助工具开源实战工程 完整源码包含性能优化调优手册](https://github.com/backendleosjy/BBgBWP/commit/45305bf2b2b92f7ba2bcf483ad6cff622640b9e9)
