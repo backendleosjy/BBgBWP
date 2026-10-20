@@ -149,3 +149,4 @@
 - [GitHub 数据库自动化开源资源 可运行源码与本地落地实施手册](https://github.com/backendleosjy/BBgBWP/commit/faee5333b7665327326deae2b016a0189038cc18)
 - [shell脚本锁文件模板，防止脚本多实例并发运行锁机制](https://github.com/backendleosjy/BBgBWP/commit/7c7337f0ec72dd05edc31cb862ee938f91188477)
 - [传统行业并非没有机会，只是竞争逻辑已经改变](https://github.com/backendleosjy/BBgBWP/commit/5e3ef3156ff0e4eace543176b9fc09ac58b1804e)
+- [直播购物退货维权消费者遇到货不对板如何维权](https://github.com/backendleosjy/BBgBWP/commit/eb3a0a02b8f65c9963ac15d0c3c5d171f56bffe6)
