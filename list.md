@@ -91,3 +91,4 @@
 - [数据集jsonl字段过滤工具，过滤jsonl保留指定字段输出](https://github.com/backendleosjy/BBgBWP/commit/7ef7dd3c1861d780e40cbb20a2c2676bdcf326c8)
 - [家谱族谱管理工具，录入亲属关系生成族谱导出打印](https://github.com/backendleosjy/BBgBWP/commit/6b55939eba201a841142e2b72955e400e9daed89)
 - [静态镜像站点 canonical 指向错误域名修正](https://github.com/backendleosjy/BBgBWP/commit/4c984811b16b601e96e154b249d3c6b13348a0bd)
+- [程序员轻量开源工程库 完整源码与多场景落地演示文档](https://github.com/backendleosjy/BBgBWP/commit/63e4fcf9ab4fcd9f5c1b51d9d7fe4c7adef6926d)
