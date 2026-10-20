@@ -143,3 +143,4 @@
 - [家庭应急金存放哪里兼顾流动性和安全性选择](https://github.com/backendleosjy/BBgBWP/commit/cb71a648cbca98a8d5e18499fbea402f4e59f862)
 - [无障碍环境全面建设，城市无障碍改造落地](https://github.com/backendleosjy/BBgBWP/commit/2d1e75b3353feeb115d011cd913960e8224241ea)
 - [云原生AI工作负载，任务突发抢占导致业务抖动](https://github.com/backendleosjy/BBgBWP/commit/94033c96745b703a13728501cc9ec79a46152aa3)
+- [markdown表格转纯文本表格，将markdown表格转为普通文本表格](https://github.com/backendleosjy/BBgBWP/commit/e5ce7147fe328428e350da1939082b61f29c3102)
