@@ -111,3 +111,4 @@
 - [开源工具文档环境代理网络问题处理方案](https://github.com/backendleosjy/BBgBWP/commit/9d36dd29725ac440f1f2fff5991d5a5e51fc8ca6)
 - [Gitee 镜像站抓取失败各类配置错误汇总](https://github.com/backendleosjy/BBgBWP/commit/5917d621b517cdf98739d9d0f36cc7ce70d5e8e0)
 - [ip网段重叠检测工具，批量检测多组cidr网段是否互相重叠](https://github.com/backendleosjy/BBgBWP/commit/96ffc315af46b5b29f4ce6c012c34b2f8d989a93)
+- [Gitee Pages 开启 HTTPS 后百度抓取适配设置](https://github.com/backendleosjy/BBgBWP/commit/792223dbd75cf39bc02a38b6b425c8f8f99596eb)
