@@ -180,3 +180,4 @@
 - [企业盈利分化，头部企业集中更多市场资源](https://github.com/backendleosjy/BBgBWP/commit/06850a57d13cadee0d6d82943d9f7fda574d24c5)
 - [流式特征实时更新，避免训练推理数据不一致](https://github.com/backendleosjy/BBgBWP/commit/a2419b2840b65c494c775cd41cf957107e604ce4)
 - [楼市政策持续放松，购房意愿依旧持续低迷](https://github.com/backendleosjy/BBgBWP/commit/654ff73f18aa4b6500cb0622449d43f42e10149f)
+- [租赁经济快速崛起，对传统商品消费带来哪些影响](https://github.com/backendleosjy/BBgBWP/commit/99c493a11a458333e86413c6cbdd88ade9d438e1)
