@@ -105,3 +105,4 @@
 - [再生塑料产业发展政策推动塑料循环经济规模扩大](https://github.com/backendleosjy/BBgBWP/commit/8cf188bbd90eeefb1fd8d07c6d65ec5b9bb30840)
 - [漏洞样本仓库，上传恶意样本仓库被封禁](https://github.com/backendleosjy/BBgBWP/commit/390a3c280ff8aab02d7deb9ad24b6864b78e0257)
 - [GitHub 仓库开源文档图片链接失效规避方案](https://github.com/backendleosjy/BBgBWP/commit/b6a4cbe45e8c91b4e75b9650efd59cb22cc1cc6c)
+- [tls证书扩展字段提取，批量提取证书全部扩展字段内容](https://github.com/backendleosjy/BBgBWP/commit/1041a79b6d55435a10740a16e2bdf2b1010bb41f)
