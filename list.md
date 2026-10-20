@@ -59,3 +59,4 @@
 - [K8s Pod漂移故障，节点调度引发业务抖动](https://github.com/backendleosjy/BBgBWP/commit/6979399fffa0144070389069a011e1acf64605e1)
 - [数据要素市场化，普通人个人数据如何变现获益](https://github.com/backendleosjy/BBgBWP/commit/e364e5ca3270b6f0fadc7a8e28cd1ab971d38bab)
 - [短链接开源服务，访问统计过期销毁密码访问短链生成](https://github.com/backendleosjy/BBgBWP/commit/249ef0f53e1fdb0effadb413b68ac5e56dd5fc98)
+- [大模型本地函数调用插件框架，自定义工具扩展快速搭建Agent应用](https://github.com/backendleosjy/BBgBWP/commit/e78d4ca94f75120e0a17e530648d5ca199d2a254)
