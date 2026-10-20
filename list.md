@@ -109,3 +109,4 @@
 - [社区食堂可持续运营补贴退坡如何生存](https://github.com/backendleosjy/BBgBWP/commit/b11742ed25046aa849cd56acea50256d4a17522c)
 - [电车充电辐射谣言如何辨别](https://github.com/backendleosjy/BBgBWP/commit/7aaa8f7bb7484879e923c81e8c90edbc43931f2e)
 - [开源工具文档环境代理网络问题处理方案](https://github.com/backendleosjy/BBgBWP/commit/9d36dd29725ac440f1f2fff5991d5a5e51fc8ca6)
+- [Gitee 镜像站抓取失败各类配置错误汇总](https://github.com/backendleosjy/BBgBWP/commit/5917d621b517cdf98739d9d0f36cc7ce70d5e8e0)
