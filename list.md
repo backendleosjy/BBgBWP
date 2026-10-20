@@ -17,3 +17,4 @@
 - [保交楼持续推进，购房者遇到烂尾楼如何维权](https://github.com/backendleosjy/BBgBWP/commit/fb127ab60e7598d0bc10fedbfe3273775913a6ae)
 - [高股息风靡全网，千万别当成保本理财](https://github.com/backendleosjy/BBgBWP/commit/921bf48fd7c153737cbcb81b7983a6699a928541)
 - [一致性哈希分片 Demo 完整源码节点增减数据重分配](https://github.com/backendleosjy/BBgBWP/commit/053fdf24e9e3fce03412b6aff0153b7c5f8c66be)
+- [GitHub组织团队批量管理脚本](https://github.com/backendleosjy/BBgBWP/commit/61a49d46855471c1b060c4106a8e542c7e3fd380)
