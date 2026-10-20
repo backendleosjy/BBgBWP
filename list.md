@@ -135,3 +135,4 @@
 - [音频采样格式转换工具，批量转换位深采样格式](https://github.com/backendleosjy/BBgBWP/commit/2730a35774d8ebe098dbe022df2fcf2c884d0047)
 - [保险负债端回暖储蓄型保险产品销售迎来修复](https://github.com/backendleosjy/BBgBWP/commit/87d4f28c0edd18eb81ddc69209f7fd0309bba8a2)
 - [学分银行全国打通，不同学习经历互认落地](https://github.com/backendleosjy/BBgBWP/commit/528c99e3a6212604b8ba0d0a7b49e3eb9a11902e)
+- [国产操作系统Agent框架，端侧智能生态短板](https://github.com/backendleosjy/BBgBWP/commit/4bfd3477aba38565a3a117a1d133e94d42b7cdb9)
