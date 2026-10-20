@@ -186,3 +186,4 @@
 - [进程间消息队列通信工程 完整源码跨进程数据传递交互](https://github.com/backendleosjy/BBgBWP/commit/26eba6f9f5a03558e3f267e1ef189bb8ae38536e)
 - [git worktree批量清理脚本，批量删除失效孤立worktree](https://github.com/backendleosjy/BBgBWP/commit/b90708fece4746113aa0cc1fcee0896bb79018fc)
 - [全栈开源实战资源库 源码资源包含故障修复示例说明](https://github.com/backendleosjy/BBgBWP/commit/d0b8244af196c69a7fdc685bbf41213d0bc6b64a)
+- [pdf 简易生成开源仓库 完整源码生成简单 pdf 文档](https://github.com/backendleosjy/BBgBWP/commit/5bc949b65bb6761e640c010065c1edfb32079cd6)
