@@ -86,3 +86,4 @@
 - [灵活就业人员工伤认定现实困境](https://github.com/backendleosjy/BBgBWP/commit/26fff1df5c3245aec4ef9ac6977a286e7316faef)
 - [部分新兴赛道火热，存在泡沫化潜在风险](https://github.com/backendleosjy/BBgBWP/commit/5fff16e6a19d1c4ab61379024df2c1294ebd8725)
 - [pdf批量移除pdf水印图层，尝试移除pdf内图片文本水印](https://github.com/backendleosjy/BBgBWP/commit/e9f7004ea7f728843ad2cefea381f2aaf27b9f51)
+- [网约车司机社保参保现实困境](https://github.com/backendleosjy/BBgBWP/commit/4c3872662c7fa3f3634ea8ec10c2231cce6927ed)
