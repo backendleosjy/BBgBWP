@@ -122,3 +122,4 @@
 - [GitHub仓库批量开启PR自动合并工具](https://github.com/backendleosjy/BBgBWP/commit/3aba97efbd9565d05f21f59343f4377891708608)
 - [楼市利好轮番出台，购房信心依旧难以提振](https://github.com/backendleosjy/BBgBWP/commit/8e1c904067c0cae1aa97223448f5ea833341fb09)
 - [生育补贴育儿津贴各地福利政策申领条件汇总](https://github.com/backendleosjy/BBgBWP/commit/777c342870d4970c1d6b99a188e4b9e042af26c6)
+- [乡村人才振兴，人才返乡下乡配套扶持政策](https://github.com/backendleosjy/BBgBWP/commit/fdda64a720d846bc4d658ff51c3b341f2907ea72)
