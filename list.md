@@ -89,3 +89,4 @@
 - [网约车司机社保参保现实困境](https://github.com/backendleosjy/BBgBWP/commit/4c3872662c7fa3f3634ea8ec10c2231cce6927ed)
 - [markdown知识库管理系统，文件夹驱动文档搜索标签管理](https://github.com/backendleosjy/BBgBWP/commit/587b2a95899cb3e69b8d671b2f4e55fda59092fc)
 - [数据集jsonl字段过滤工具，过滤jsonl保留指定字段输出](https://github.com/backendleosjy/BBgBWP/commit/7ef7dd3c1861d780e40cbb20a2c2676bdcf326c8)
+- [家谱族谱管理工具，录入亲属关系生成族谱导出打印](https://github.com/backendleosjy/BBgBWP/commit/6b55939eba201a841142e2b72955e400e9daed89)
