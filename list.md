@@ -66,3 +66,4 @@
 - [后端框架选型，CRUD业务Go/Rust/Python真实对比](https://github.com/backendleosjy/BBgBWP/commit/9bdb54dadac70181056b0b4e9c03254ac34d0828)
 - [高质量自动化脚本仓库 源码开放包含集成调试指南](https://github.com/backendleosjy/BBgBWP/commit/ee196a9bf6878ccebbb57570d63cb56b8397c56d)
 - [楼市政策接连松绑，刚需依旧选择观望躺平](https://github.com/backendleosjy/BBgBWP/commit/9a1f1a8c90a082712d1758780ef2bd9846cd1802)
+- [数据库实战开源案例仓库 可复用源码与模块集成接入指南](https://github.com/backendleosjy/BBgBWP/commit/da4f9bde471b6e233313659004f1608719fbac98)
