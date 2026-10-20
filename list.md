@@ -64,3 +64,4 @@
 - [宏观数据十分亮眼，民众真实体感截然相反](https://github.com/backendleosjy/BBgBWP/commit/ebafaf81985f280afd4b595fdcaabea8899ee97a)
 - [氢能重卡示范运行商用车氢能商业化落地最新进展](https://github.com/backendleosjy/BBgBWP/commit/0aaaecf6395f42f47f72b3a63a5036c43bcb3bd8)
 - [后端框架选型，CRUD业务Go/Rust/Python真实对比](https://github.com/backendleosjy/BBgBWP/commit/9bdb54dadac70181056b0b4e9c03254ac34d0828)
+- [高质量自动化脚本仓库 源码开放包含集成调试指南](https://github.com/backendleosjy/BBgBWP/commit/ee196a9bf6878ccebbb57570d63cb56b8397c56d)
