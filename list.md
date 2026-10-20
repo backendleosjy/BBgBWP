@@ -172,3 +172,4 @@
 - [露营营地野蛮生长土地合规困境](https://github.com/backendleosjy/BBgBWP/commit/d1ec7e2d682c16be31c69efbc111f90105d9aa21)
 - [后端研发参考开源工程 源码资源含各类模拟缓存样例](https://github.com/backendleosjy/BBgBWP/commit/65b0a6c1edb794836df72f54c25d9f751c5e3aac)
 - [企业AI评估体系，业务真实收益而非跑分指标](https://github.com/backendleosjy/BBgBWP/commit/0bfc64290d3aefdabdd37400b4aaf4d338249710)
+- [情绪价值消费兴起如何避开营销陷阱](https://github.com/backendleosjy/BBgBWP/commit/b16970dcf1b212cd3abf2ce360d93274b45aa12b)
