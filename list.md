@@ -117,3 +117,4 @@
 - [PCB行业受益AI算力拉动产业链订单景气度解析](https://github.com/backendleosjy/BBgBWP/commit/11c6b5db8ebbf356a16de23f887d157b43116e18)
 - [mysql权限表原始数据导出，直接导出mysql系统权限表原始记录](https://github.com/backendleosjy/BBgBWP/commit/67fda68e2b173ff89f4dcf742ec1f0d1ee8592c4)
 - [GitHub 新增文档页面加速百度索引小窍门](https://github.com/backendleosjy/BBgBWP/commit/30e4460d183e2a1275339ddbf042bb4f14290438)
+- [github仓库discussions分类标签导出，导出discussion分类与标签配置](https://github.com/backendleosjy/BBgBWP/commit/7251180cef747cd89d5cc2c22906ea86885eb1db)
