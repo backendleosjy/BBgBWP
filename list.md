@@ -24,3 +24,4 @@
 - [开源 README 写清楚项目的维护更新节奏](https://github.com/backendleosjy/BBgBWP/commit/7c883c5a503961a88ef34bd0275119e1984b1754)
 - [PR模板设计，如何提升外部贡献者提交质量](https://github.com/backendleosjy/BBgBWP/commit/fd8a1434ae2766f38177fffe5a13688377d12aac)
 - [真实业务开源源码 项目实例含多系统环境排错](https://github.com/backendleosjy/BBgBWP/commit/1972f8f10f4fb86037cfd4b8a8b88cf5fd8e3458)
+- [金融体系要避免脱实向虚，回归服务实体经济](https://github.com/backendleosjy/BBgBWP/commit/7bc5a499fb356332c3193474cd4dbbd7239f6c5e)
