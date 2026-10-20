@@ -22,3 +22,4 @@
 - [GitHub仓库Secret扫描告警导出工具](https://github.com/backendleosjy/BBgBWP/commit/c261a56e9a299e9f180c7f927abdadf6ace2a134)
 - [openapi oneOf anyOf嵌套解析工具，解析复杂oneOf嵌套结构](https://github.com/backendleosjy/BBgBWP/commit/9c7ac6e77e44dbdd3781c504895df86c6c9ed448)
 - [开源 README 写清楚项目的维护更新节奏](https://github.com/backendleosjy/BBgBWP/commit/7c883c5a503961a88ef34bd0275119e1984b1754)
+- [PR模板设计，如何提升外部贡献者提交质量](https://github.com/backendleosjy/BBgBWP/commit/fd8a1434ae2766f38177fffe5a13688377d12aac)
