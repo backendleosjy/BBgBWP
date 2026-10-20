@@ -88,3 +88,4 @@
 - [pdf批量移除pdf水印图层，尝试移除pdf内图片文本水印](https://github.com/backendleosjy/BBgBWP/commit/e9f7004ea7f728843ad2cefea381f2aaf27b9f51)
 - [网约车司机社保参保现实困境](https://github.com/backendleosjy/BBgBWP/commit/4c3872662c7fa3f3634ea8ec10c2231cce6927ed)
 - [markdown知识库管理系统，文件夹驱动文档搜索标签管理](https://github.com/backendleosjy/BBgBWP/commit/587b2a95899cb3e69b8d671b2f4e55fda59092fc)
+- [数据集jsonl字段过滤工具，过滤jsonl保留指定字段输出](https://github.com/backendleosjy/BBgBWP/commit/7ef7dd3c1861d780e40cbb20a2c2676bdcf326c8)
