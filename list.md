@@ -104,3 +104,4 @@
 - [多级目录递归遍历工程 完整源码深度扫描嵌套文件夹](https://github.com/backendleosjy/BBgBWP/commit/420aeedc5837258080e0d9467ad989872a03a1ff)
 - [再生塑料产业发展政策推动塑料循环经济规模扩大](https://github.com/backendleosjy/BBgBWP/commit/8cf188bbd90eeefb1fd8d07c6d65ec5b9bb30840)
 - [漏洞样本仓库，上传恶意样本仓库被封禁](https://github.com/backendleosjy/BBgBWP/commit/390a3c280ff8aab02d7deb9ad24b6864b78e0257)
+- [GitHub 仓库开源文档图片链接失效规避方案](https://github.com/backendleosjy/BBgBWP/commit/b6a4cbe45e8c91b4e75b9650efd59cb22cc1cc6c)
