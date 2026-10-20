@@ -129,3 +129,4 @@
 - [程序员文件工具开源源码 全套源码支持多操作系统兼容](https://github.com/backendleosjy/BBgBWP/commit/97d54b27589ca63a0dc96cad42f87c3f526e4604)
 - [网络文艺监管升级，短视频短剧内容治理](https://github.com/backendleosjy/BBgBWP/commit/e07be14bfa3eec5edac1086dd0195c69a8d0f15d)
 - [开源实战参考工程分享 完整源码配套参数调优使用手册](https://github.com/backendleosjy/BBgBWP/commit/00e3934f900d546bfe2471ef8246d1f9e85e62ad)
+- [url端口提取批量工具，批量从url列表提取端口号](https://github.com/backendleosjy/BBgBWP/commit/b08dd12c17106fd3d45c614eb01d12a14927d1d2)
