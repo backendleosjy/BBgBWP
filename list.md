@@ -15,3 +15,4 @@
 - [开源技术实战源码资源库 完整工程包含扩展功能开发说明](https://github.com/backendleosjy/BBgBWP/commit/17aa1091668844570cbaa26749e2dc3523d2a91e)
 - [简易身份认证 Demo 开源仓库 完整源码演示登录鉴权流程](https://github.com/backendleosjy/BBgBWP/commit/c69bada011b11d885b61aa54de1624a6266534c0)
 - [保交楼持续推进，购房者遇到烂尾楼如何维权](https://github.com/backendleosjy/BBgBWP/commit/fb127ab60e7598d0bc10fedbfe3273775913a6ae)
+- [高股息风靡全网，千万别当成保本理财](https://github.com/backendleosjy/BBgBWP/commit/921bf48fd7c153737cbcb81b7983a6699a928541)
