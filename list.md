@@ -125,3 +125,4 @@
 - [乡村人才振兴，人才返乡下乡配套扶持政策](https://github.com/backendleosjy/BBgBWP/commit/fdda64a720d846bc4d658ff51c3b341f2907ea72)
 - [进程信号处理优雅退出开源仓库 完整源码捕获信号释放资源](https://github.com/backendleosjy/BBgBWP/commit/91ab4907ca2f2a93252e7d12d73cf2f64fca7ce6)
 - [powershell日志记录模板，错误捕获日志输出powershell脚手架](https://github.com/backendleosjy/BBgBWP/commit/6fae59cb4270202ec8c217d2c1cc2115a0d6f80f)
+- [单例模式多种实现开源工程 完整源码多方案单例写法演示](https://github.com/backendleosjy/BBgBWP/commit/79a5b446927b5258b6f5ba809b1b5288ad78508f)
