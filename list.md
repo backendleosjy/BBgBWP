@@ -165,3 +165,4 @@
 - [总想快速赚大钱，理财亏损大多源于急躁](https://github.com/backendleosjy/BBgBWP/commit/7a0830abe9d31c48347ef345a38475b84453030a)
 - [一人公司遍地宣传，创业失败率居高不下](https://github.com/backendleosjy/BBgBWP/commit/5f155186743a3f89b3fd9682fb8229314a63b0c4)
 - [浏览器本地pcap简易解析工具，前端读取pcap文件解析基础流量信息](https://github.com/backendleosjy/BBgBWP/commit/e291caee95848c867fffbbe8cbe72242034f2e66)
+- [面向开发从业者开源资源 完整实现附带线上踩坑解决文档](https://github.com/backendleosjy/BBgBWP/commit/5c32822a338e8cd4e020342b74991d0c319b78d8)
