@@ -138,3 +138,4 @@
 - [国产操作系统Agent框架，端侧智能生态短板](https://github.com/backendleosjy/BBgBWP/commit/4bfd3477aba38565a3a117a1d133e94d42b7cdb9)
 - [百度 site 查询镜像站点收录数量解读技巧](https://github.com/backendleosjy/BBgBWP/commit/540192838e9f06d2376796099f793613d85ee609)
 - [人形机器人虚实迁移数据集构建，仿真域随机化优化](https://github.com/backendleosjy/BBgBWP/commit/ac0957f53e968fb3cfb72981da6c8b0b8f72f76a)
+- [http last‑modified 源码 完整源码修改时间协商缓存实现](https://github.com/backendleosjy/BBgBWP/commit/1d4692c81905487219102ae4cd74909879841b87)
