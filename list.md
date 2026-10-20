@@ -71,3 +71,4 @@
 - [GitHub仓库PR审核人自动指派脚本](https://github.com/backendleosjy/BBgBWP/commit/99321e65cb629eb233025f746f66dc041bbf4f6b)
 - [线程死锁模拟工程 完整源码构造死锁复现调试](https://github.com/backendleosjy/BBgBWP/commit/961c24980bcbfa2fc30dd1f244692b9ca97f1540)
 - [数字遗产立法完善，账号虚拟资产继承纠纷](https://github.com/backendleosjy/BBgBWP/commit/dc013d741e6b3bccd640c94c0f23a1b2f1038de7)
+- [利率持续走低，为什么依旧不敢投权益](https://github.com/backendleosjy/BBgBWP/commit/43771c80660dce646c9d7f0fa04a04d342ef644f)
